@@ -9,4 +9,4 @@ import getTemplate from "./template";
     render(){
         return getTemplate(this); 
     }
- }
+}
